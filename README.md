@@ -1,7 +1,7 @@
 # Hello, I'm Tuukka! 🖖 
 
 ## 🚀 About Me
-I'm a full stack developer passionate about building fast, responsive web apps with React, Vue, and Svelte. I love crafting clean, efficient solutions that make the web feel smooth and effortless.
+I'm a full stack developer passionate about building fast, responsive web apps with React, Vue, and Svelte. I love crafting clean, efficient solutions that make the web feel effortless.
 
 ## 💻 Tech Stack
 ```javascript
@@ -41,7 +41,7 @@ const tuukka = {
 </div>
 
 ## 🎯 Outside of Code
-I spend a lot of time photographing planes, especially at sunset. I also enjoy riding my motorcycle and getting a bit too into Forza. There's something fun about capturing the right moment, kind of like getting code just right.
+I spend a lot of time photographing planes, especially at sunset. I also enjoy riding my motorcycle and getting a bit too into Forza.
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fi.linkedin.com/in/tuuchen)
